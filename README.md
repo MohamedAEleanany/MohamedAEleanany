@@ -7,7 +7,12 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Mobile+Application+Developer;Always+Learing+new+Things" alt="Typing SVG" /></a>
+<div align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Mobile+Application+Developer;Always+Learing+new+Things" alt="Typing SVG" />
+  </a>
+</div>
 
 - 🏢 I'm a Software Engineer and Teaching Assistant in El-Sallab
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
