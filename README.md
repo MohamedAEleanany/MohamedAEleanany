@@ -28,7 +28,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![Flutter]([https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=Flutter))&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
