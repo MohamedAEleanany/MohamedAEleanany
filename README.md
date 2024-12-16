@@ -14,8 +14,9 @@
   <p>💻<b> I'm a Software Engineer and<br> Teaching Assistant at M.E.T Academy.<b></p>
   <p>🏢 Bachelor's degree, Computer Science with <br>Grade: <b>Excellent with Honours [Ranked 2nd].<b></p>
    <p>🌱 I’m currently learning Flutter. </p>
+    <p>🌐 Knowledge has only one destiny, to be shared!</p>
   <p>💬 Ask me about my experience with Dart, Flutter, <br>API, Firebase, or anything related to Mobile Application.</p>
-  <p>🌐 Knowledge has only one destiny, to be shared!</p>
+  
    
 </div>
 
