@@ -12,7 +12,7 @@
 <div align="left">
   <p>-💻 I'm a Software Engineer and Teaching Assistant in El-Sallab</p>
   <p>💬 Ask me about my experience with Dart, Flutter, and Firebase, or anything related to Mobile Application.</p>
-  💬 Ask me about **anything i'd like to help**
+  💬 Ask me about <b>anything i'd like to help</b>
 </div>
 
 
