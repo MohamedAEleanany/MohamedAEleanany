@@ -10,10 +10,9 @@
 
 
 <div align="left">
-  <p>🏢 I'm a Software Engineer and Teaching Assistant in El-Sallab</p>
-  <p>👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p>
+  <p>-💻 I'm a Software Engineer and Teaching Assistant in El-Sallab</p>
   <p>💬 Ask me about my experience with Dart, Flutter, and Firebase, or anything related to Mobile Application.</p>
-  <p>⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.</p>
+  💬 Ask me about **anything i'd like to help**
 </div>
 
 
