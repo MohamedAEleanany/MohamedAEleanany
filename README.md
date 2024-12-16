@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Mohamed Elenany  <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" /></h1>
 <h1 align="center">Hi 👋, I'm Mohamed Elenany <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" /> </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
