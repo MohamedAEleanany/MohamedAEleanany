@@ -8,7 +8,7 @@
 </div>
 <img align="right" alt="GIF" src="https://github.com/MohamedAEleanany/MohamedAEleanany/blob/main/237114644-48722957-1074-4ec5-ae1a-416a1e9130ec.gif" width="450" height="300" />
 
-
+<br>
 <div align="left">
   <p>-💻<b> I'm a Software Engineer and<br> Teaching Assistant at M.E.T Academy<b></p>
      <p>Bachelor's degree, Computer Science with <br>Grade: <b>Excellent with Honours [Ranked 2nd]<b></p>
