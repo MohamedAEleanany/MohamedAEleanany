@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+![coding](https://github.com/RehabFakhry/RehabFakhry/assets/95092898/48722957-1074-4ec5-ae1a-416a1e9130ec)
 
 <h3 align="center">
   Welcome to Mohamed Eleanany profile!
