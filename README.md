@@ -33,6 +33,9 @@
 <a href="https://web.facebook.com/mohamed.eleanany.3/" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Elenany-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
+<a href="https://x.com/MohamedEleanany" target="_blank">
+  <img src="https://img.shields.io/badge/-Mohamed%20Elenany-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
 
 
 
