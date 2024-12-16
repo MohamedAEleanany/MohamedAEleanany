@@ -10,7 +10,7 @@
 
 
 <div align="left">
-  <p>-💻 I'm a Software Engineer and<br> Teaching Assistant at M.E.T Academy</p>
+  <p>-💻 I'm a Software Engineer and<br> <b>Teaching Assistant at M.E.T Academy<b></p>
   <p>💬 Ask me about my experience with Dart, Flutter, <br>API, Firebase, or anything related to Mobile Application.</p>
   💬 Ask me about <b>anything i'd like to help</b>
 </div>
