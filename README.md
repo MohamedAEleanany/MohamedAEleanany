@@ -69,6 +69,9 @@
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="60" height="60" style="margin-right: 15px;"/> 
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="60" height="60" style="margin-right: 10px;"/> 
+</a>
   <!-- Visual Studio -->
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="60" height="60" style="margin-right: 15px;"/> 
