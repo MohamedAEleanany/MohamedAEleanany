@@ -15,8 +15,8 @@
   <p>🏢 Bachelor's degree, Computer Science with <br>Grade: <b>Excellent with Honours [Ranked 2nd].<b></p>
    <p>🌱 I’m currently learning Flutter. </p>
   <p>💬 Ask me about my experience with Dart, Flutter, <br>API, Firebase, or anything related to Mobile Application.</p>
+  <p>🌐 Knowledge has only one destiny, to be shared!</p>
    
-  💬 Ask me about <b>anything i'd like to help.</b>
 </div>
 
 
@@ -70,7 +70,7 @@
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="60" height="60" style="margin-right: 15px;"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="60" height="60" style="margin-right: 10px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="60" height="60" style="margin-right: 15px;"/> 
 </a>
   <!-- Visual Studio -->
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
