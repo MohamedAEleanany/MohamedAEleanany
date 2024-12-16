@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Mobile+Application+Developer;Always+Learing+new+Things" alt="Typing SVG" />
   </a>
 </div>
-<img align="right" alt="GIF" src="https://github.com/MohamedAEleanany/MohamedAEleanany/blob/main/237114644-48722957-1074-4ec5-ae1a-416a1e9130ec.gif" width="500" height="400" />
+<img align="right" alt="GIF" src="https://github.com/MohamedAEleanany/MohamedAEleanany/blob/main/237114644-48722957-1074-4ec5-ae1a-416a1e9130ec.gif" width="500" height="300" />
 
 
 <div align="center">
