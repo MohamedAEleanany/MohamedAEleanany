@@ -25,7 +25,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamedaelenany/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elenany-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
+---
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
