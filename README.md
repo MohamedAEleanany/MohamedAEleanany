@@ -16,6 +16,7 @@
    <p>🌱 I’m currently learning Flutter. </p>
     <p>🌐 Knowledge has only one destiny, to be shared!</p>
   <p>💬 Ask me about my experience with Dart, Flutter, <br>API, Firebase, or anything related to Mobile Application.</p>
+  <p> 🎖️ <b>Current Status Currently exempted temporarily from national military service.  </b></p>
    
 </div>
 
