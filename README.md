@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="https://github.com/MohamedAEleanany/MohamedAEleanany/blob/main/237114644-48722957-1074-4ec5-ae1a-416a1e9130ec.gif" width="500" height="300" />
 
 
-<div align="center">
+<div align="left">
   <p>🏢 I'm a Software Engineer and Teaching Assistant in El-Sallab</p>
   <p>👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p>
   <p>💬 Ask me about my experience with Dart, Flutter, and Firebase, or anything related to Mobile Application.</p>
