@@ -1,24 +1,25 @@
 
-<h1 align="center">Hi 👋, I'm Mohamed Elenany <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" /> </h1>
+<h1 align="left">Hi 👋, I'm Mohamed Elenany <img alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" /> </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<div align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Mobile+Application+Developer;Always+Learing+new+Things" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/MohamedAEleanany/MohamedAEleanany/blob/main/237114644-48722957-1074-4ec5-ae1a-416a1e9130ec.gif" alt="coding" />
+<div>
+  <div style="display: inline-block; width: 60%; vertical-align: top;">
+    <p>🏢 I'm a Software Engineer and Teaching Assistant in El-Sallab</p>
+    <p>👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p>
+    <p>💬 Ask me about my experience with Dart, Flutter, and Firebase, or anything related to Mobile Application.</p>
+    <p>⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.</p>
+  </div>
+  <div style="display: inline-block; width: 39%; text-align: right;">
+    <img src="https://github.com/MohamedAEleanany/MohamedAEleanany/blob/main/237114644-48722957-1074-4ec5-ae1a-416a1e9130ec.gif" alt="coding" />
+  </div>
 </div>
 
-<div align="center">
-  <p>🏢 I'm a Software Engineer and Teaching Assistant in El-Sallab</p>
-  <p>👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p>
-  <p>💬 Ask me about my experience with Dart, Flutter, and Firebase, or anything related to Mobile Application.</p>
-  <p>⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.</p>
-</div>
 
 
 
