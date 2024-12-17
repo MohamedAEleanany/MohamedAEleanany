@@ -28,12 +28,17 @@
 ### 🤝Connect with Me :
 
 
-<a href="https://www.linkedin.com/in/mohamedaelenany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haidy-elsamman/" height="30" width="40" /></a>
+<div style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/mohamedaelenany/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</div>
 
-
-<a href="https://www.facebook.com/mohamed.eleanany.3/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yourusername" height="30" width="40" />
-</a>
+<div style="display: inline-block; margin-left: 10px;">
+  <a href="https://www.facebook.com/mohamed.eleanany.3/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</div>
 
 
 
