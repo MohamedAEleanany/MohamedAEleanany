@@ -28,17 +28,16 @@
 ### 🤝Connect with Me :
 
 
-<div style="display: inline-block;">
+<p style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/mohamedaelenany/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn" height="30" width="40" />
   </a>
-</div>
-
-<div style="display: inline-block; margin-left: 10px;">
   <a href="https://www.facebook.com/mohamed.eleanany.3/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+         alt="Facebook" height="30" width="40" />
   </a>
-</div>
+</p>
 
 
 
