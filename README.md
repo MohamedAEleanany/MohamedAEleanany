@@ -31,11 +31,11 @@
 <p style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/mohamedaelenany/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" height="60" width="60" />
+         alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.facebook.com/mohamed.eleanany.3/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-         alt="Facebook" height="60" width="60" />
+         alt="Facebook" height="40" width="40" />
   </a>
 </p>
 
