@@ -96,10 +96,10 @@
 </h3>
 
 <div>
-  <a href="https://www.linkedin.com/in/husamahmud/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedaelenany/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:proghusam@outlook.com" target="_blank">
+  <a href="mohamedeleanany7@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/husamahmud" target="_blank">
