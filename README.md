@@ -27,7 +27,7 @@
 
 
 <h3 align="left">
-    Frontend Development:
+    Mobile Development:
 </h3>
 
 <div align="left" style="display: flex; gap: .5rem">
