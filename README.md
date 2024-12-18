@@ -66,10 +66,16 @@
 
 
 <div align="left" style="display: flex; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
 </div>
+
 
 <h3 align="left">
     Tools & Utilities:
