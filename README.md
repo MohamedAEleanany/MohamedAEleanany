@@ -81,7 +81,7 @@
 <a href="mailto:mohamedeleanany7@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo" />
 </a>
-  <a href="https://twitter.com/husamahmud" target="_blank">
+  <a href="https://x.com/MohamedEleanany?t=fdROPeKe2220U1yDyjAIWA&s=08" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
