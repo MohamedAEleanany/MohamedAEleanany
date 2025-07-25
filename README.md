@@ -3,7 +3,7 @@
 <div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Mobile+Application+Developer;Always+Learning+new+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Backend+Developer;Always+Learning+new+Things" alt="Typing SVG" />
   </a>
 </div>
 <img align="right" alt="GIF" src="https://github.com/MohamedAEleanany/MohamedAEleanany/blob/main/237114644-48722957-1074-4ec5-ae1a-416a1e9130ec.gif" width="450" height="300" />
@@ -14,9 +14,9 @@
   <br>
   <p>💻<b> I'm a Software Engineer and<br> Teaching Assistant at M.E.T Academy.<b></p>
   <p>🏢 Bachelor's degree, Computer Science with <br>Grade: <b>Excellent with Honours [Ranked 2nd].<b></p>
-   <p>🌱 I’m currently learning Flutter. </p>
+   <p>🌱 I’m currently learning Backend. </p>
     <p>🌐 Knowledge has only one destiny, to be shared!</p>
-  <p>💬 Ask me about my experience with Dart, Flutter, <br>API, Firebase, or anything related to Mobile Application.</p>
+  <p>💬 Ask me about my experience with PHP, <br>API, MYSQL, or anything related to Backend.</p>
   <p>🎖️ <b>Currently exempted temporarily from national military service.  </b></p>
    
 </div>
